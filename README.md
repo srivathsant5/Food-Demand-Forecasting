@@ -1,5 +1,4 @@
-# projects
-projects done by me for practice
+
 
 # About Food Demand Forecasting 
 Demand forecasting is a key component to every growing online business.
